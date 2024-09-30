@@ -1,7 +1,7 @@
 # 돌찬 앱 사용 방법
 
 돌찬 앱 zip 파일은 아래 링크에서 다운로드하실 수 있습니다:
-[돌찬 앱 다운로드](https://dolchanchain.notion.site/Dolchan-Chain-e194ac09f4404289a3113e2ccb7d2aaa)
+[돌찬 앱 다운로드](https://dolchanchain.notion.site/11199e33388c80928c24fcf4c91b7190)
 
 ## 소스 코드로 사용하실 분들
 1. 패키지 설치:
