@@ -1,0 +1,28 @@
+{
+    "name": "Dolchan Wallet Recovery",
+    "version": "1.0.0",
+    "description": "Wallet rescue app. All rights reserved. This software incorporates custom RPCs for Flashbot operations. Any unauthorized use of the RPC or distribution of this software is prohibited.",
+    "bin": "bundle_crypto.js",
+    "scripts": {
+        "start": "bundle_crypto.js"
+    },
+    "dependencies": {
+        "@flashbots/ethers-provider-bundle": "^1.0.0",
+        "cli-box": "^6.0.10",
+        "ethers": "^6.7.1"
+    },
+    "pkg": {
+        "assets": [
+            "bundle_crypto.js"
+        ],
+        "targets": [
+            "node16-win-x64",
+            "node16-macos-x64",
+            "node16-linux-x64"
+        ],
+        "outputPath": "./build"
+    },
+    "author": "dolchan",
+    "license": "MIT / Flashbots",
+    "copyright": "Copyright (c) 2024 dolchan"
+}
