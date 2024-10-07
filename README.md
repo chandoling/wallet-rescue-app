@@ -19,6 +19,6 @@
 
 아래 유튜브 영상은 돌찬 앱 사용에 도움이 될 수 있는 가이드 영상입니다:  
 
-[![돌찬 앱 사용 가이드](https://www.youtube.com/watch?v=SImx19kerGo)
+[![Watch the video](https://img.youtube.com/vi/SImx19kerGo/0.jpg)](https://www.youtube.com/watch?v=SImx19kerGo)
 
 > 비디오를 직접 확인하시려면 이미지를 클릭하세요.
